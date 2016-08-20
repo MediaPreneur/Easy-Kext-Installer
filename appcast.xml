@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Changelog</title>
+<link>https://www.dropbox.com/home/EasyKextPro%20Sparkle%20Updates?preview=appcast.xml</link>
+<description>added auto update feature</description>
+<language>en</language>
+<item>
+<title>Version 2.0</title>
+<sparkle:releaseNotesLink>https://www.dropbox.com/s/dagy0dqfq9w2eil/releasenotes.html?dl=0</sparkle:releaseNotesLink>
+<pubDate>Sun, 07 Aug 2016 20:34:18 +0800</pubDate>
+<enclosure
+url="https://www.dropbox.com/s/hf946q6bazsed13/EasyKext%20Pro.zip?dl=1"
+sparkle:version="44"
+sparkle:shortVersionString="v2.0"
+type="application/octet-stream"
+length="3117826"
+sparkle:dsaSignature="MC0CFF/oLLiXx7ddSqPsba3iFiLsCk8zAhUAgkKVA8dgxUgrY4cYVbKMV8z5LQE="
+/>
+</item>
+</channel>
+</rss>
